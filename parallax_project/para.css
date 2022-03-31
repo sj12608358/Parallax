@@ -1,0 +1,113 @@
+
+body
+{
+	margin:0;
+	padding:0;
+}
+
+.box1
+{
+	height:100vh;
+	width:100%;
+	background-image:url("pt1.png");
+	background-size:cover;
+	background-position:center;
+	display:table;
+	background-attachment: fixed;
+}
+.box2
+{
+	height:100vh;
+	width:100%;
+	background-image:url("pt2.png");
+	background-size: cover;
+	background-position: center;
+	display: table;
+}
+.box3
+{
+	height:100vh;
+	width:100%;
+	background-image:url("pt3.pmg.png");
+	background-size: cover;
+	background-position: center;
+	display: table;
+	background-attachment: fixed;
+}
+.box4
+{
+	height:100vh;
+	width:100%;
+	background-image:url("pt4.png");
+	background-size: cover;
+	background-position: center;
+	display: table;
+}
+.box5
+{
+	height:100vh;
+	width:100%;
+	background-image:url("pt6.png");
+	background-size: cover;
+	background-position: center;
+	display: table;
+	background-attachment: fixed;
+}
+.box6
+{
+	height:100vh;
+	width:100%;
+	background-image:url("pt7.png");
+	background-size: cover;
+	background-position: center;
+	display: table;
+}
+.box7
+{
+	height:100vh;
+	width:100%;
+	background-image:url("pt8.png");
+	background-size: cover;
+	background-position: center;
+	display: table;
+	background-attachment: fixed;
+}
+.box8
+{
+	height:100vh;
+	width:100%;
+	background-image:url("pt9.png");
+	background-size: cover;
+	background-position: center;
+	display: table;
+}
+.box9
+{
+	height:100vh;
+	width:100%;
+	background-image:url("pt10.png");
+	background-size: cover;
+	background-position: center;
+	display: table;
+	background-attachment: fixed;
+}
+.box11
+{
+	height:100vh;
+	width:100%;
+	background-image:url("pt11.png");
+	background-size: cover;
+	background-position: center;
+	display: table;
+}
+.box12
+{
+	height:100vh;
+	width:100%;
+	background-image:url("pt12.png");
+	background-size: cover;
+	background-position: center;
+	display: table;
+	background-attachment: fixed;
+}
+
